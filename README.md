@@ -1,7 +1,6 @@
 Real-time GPU water simulation on the Unity engine.
 
 ![cool gif 1](./waterExample02.gif)
-![cool gif 2](./waterExample03.gif)
 
 In this simulation, a body of water supports multiple collisions and overlapping ripples. Ripples will collide with eachother & with walls, creating a complex ripple simulation that is still performant enough to use in a realtime game engine.
 
